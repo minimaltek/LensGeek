@@ -18,10 +18,10 @@ LensGeek is a collection of tricky real-time camera lenses for iOS, built around
                
 - Some lenses are still works in progress. More updates and new lenses coming soon.
                
-- ## Support
+## Support
                
 - For any questions or feedback, please open an issue in this repository.
                
-- ## Download
+## Download
                
 - Available on the App Store.
